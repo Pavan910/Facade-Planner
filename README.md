@@ -66,6 +66,4 @@ docs/                deliverable documentation
 
 ## Tech
 
-React 18 and Vite; the canvas 2D API for rendering; one Vercel serverless function; Groq API (`qwen/qwen3.8-27b` vision model, JSON mode, free tier); Vitest. No database and no paid services.
-
-*Estimates are advisory and not a binding quotation.*
+React 18 and Vite; the canvas 2D API for rendering; one Vercel serverless function; Groq API (`qwen/qwen3.8-27b` vision model, JSON mode).
