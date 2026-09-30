@@ -1,0 +1,25 @@
+{
+  "name": "facade-planner",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AI-based exterior house renovation and cost estimation prototype",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "vite": "^8.3.1",
+    "vitest": "^5.0.3"
+  }
+}
